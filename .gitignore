@@ -1,0 +1,8 @@
+# Node
+node_modules/
+
+# TypeScript 빌드 결과
+ts/*.js
+
+# macOS
+.DS_Store
